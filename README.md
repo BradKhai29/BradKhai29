@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BradKhai29
-- 👀 I’m interested in C/C++, Java, Javascript, Python and anything related to technology 
-- 🌱 I’m currently learning C/C++ and Java
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
+- 👀 I’m interested in C/C++, Java, Javascript, C#, >NET and anything related to technology 
+- 🌱 I’m currently learning Java and C#
+- 💞️ I’m looking to collaborate as a Backend Developer
+<!--- 📫 How to reach me ... --->
 
 <!---
 BradKhai29/BradKhai29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
