@@ -2,6 +2,7 @@
 - 👀 I’m interested in C/C++, Java, Javascript, C#, >NET and anything related to technology 
 - 🌱 I’m currently learning Java and C#
 - 💞️ I’m looking to collaborate as a Backend Developer
+<img src="https://i.gifer.com/6M8R.gif"/>
 <!--- 📫 How to reach me ... --->
 
 <!---
