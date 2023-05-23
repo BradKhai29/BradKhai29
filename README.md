@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BradKhai29
-- 👀 I’m interested in C/C++, Java, Javascript, C#, >NET and anything related to technology 
+- 👀 I’m interested in C/C++, Java, Javascript, C#, .NET and anything related to technology 
 - 🌱 I’m currently learning Java and C#
-- 💞️ I’m looking to collaborate as a Backend Developer
-<img src="https://i.gifer.com/6M8R.gif"/>
+- 💞️ I’m looking to collaborate as a **Backend Developer**
 <!--- 📫 How to reach me ... --->
 
 <!---
